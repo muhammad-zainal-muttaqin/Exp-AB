@@ -1,0 +1,2 @@
+epoch=1 train_loss=2.2927 train_acc=0.1432 val_loss=2.2726 val_acc=0.0781
+epoch=2 train_loss=1.8915 train_acc=0.2708 val_loss=2.2129 val_acc=0.1667

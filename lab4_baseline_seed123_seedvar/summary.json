@@ -1,0 +1,7 @@
+{
+  "experiment_name": "lab4_baseline",
+  "seed": 123,
+  "best_val_acc": 0.10416666666666667,
+  "final_val_acc": 0.10416666666666667,
+  "epochs": 2
+}
